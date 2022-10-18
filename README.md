@@ -10,7 +10,7 @@ Therefore, to run these tests, you must download and run the HudlTests.jar file,
 In the source code, I created test cases to test the validity of various login credentials.
   1) The first test is to see if proper login credentials gets a user to the right page
   
-  2, 3, 4, 5, 6) These tests ensure that a user is unable to access other parts of the page using invalid credentials.
+  2, 3, 4, 5, 6. These tests ensure that a user is unable to access other parts of the page using invalid credentials.
   
   7) This test is to check the reliability of saving credentials by navigating back and forth between the login and home pages
   
